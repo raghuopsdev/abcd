@@ -1,0 +1,24 @@
+    1  yum install git
+    2  cd /home/ec2-user/
+    3  mkdir project
+    4  cd project/
+    5  git --version
+    6  git init
+    7  touch welcome14.txt
+    8  history
+    9  git status
+   10  git add .
+   11  git status
+   12  history
+   13  pwd
+   14  git commit . -m "demo"
+   15  git ls-files
+   16  history
+   17  git status
+   18  vi welcome14.txt 
+   19  git status
+   20  git log
+   21  git status
+   22  git commit -a
+   23  git log
+   24  history > git.txt

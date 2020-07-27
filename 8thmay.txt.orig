@@ -1,0 +1,6 @@
+This is in Cloud branch...some edit happening...
+<<<<<<< HEAD
+This change in Master branch
+=======
+This is new change at Cloud branch
+>>>>>>> cloud
